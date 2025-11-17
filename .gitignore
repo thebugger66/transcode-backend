@@ -3,9 +3,4 @@ node_modules/
 *.mkv 
 *.mov 
 *.zip 
-uploads/ 
-videos/ 
 
-
-
-hls-output/
